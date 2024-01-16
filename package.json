@@ -1,8 +1,8 @@
 {
-  "name": "interceptor_test",
+  "name": "send_tx",
   "version": "1.0.0",
   "description": "",
-  "main": "test_polygon.js",
+  "main": "failsafe_wallet.js",
   "scripts": {},
   "author": "",
   "license": "ISC",
