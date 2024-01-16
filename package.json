@@ -1,0 +1,15 @@
+{
+  "name": "interceptor_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_polygon.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "dotenv": "^16.0.3",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {}
+}
